@@ -1,7 +1,18 @@
 #Introduction to Programming
 #Author: Frank Ahearn
 #Date: 8/28/18
-def main ():
+
+def main():
     print("Hello, professor!")
-    main ()
+    print("Good-bye!")
+
+main()
+ 
+ 
+
+
+    
+
+
+    
     
